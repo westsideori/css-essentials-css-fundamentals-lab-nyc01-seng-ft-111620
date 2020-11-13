@@ -30,3 +30,9 @@ figcaption {
   margin-right: auto;
   margin-left: auto;
 }
+#details {
+  display: block;
+}
+#details div {
+  float: left;
+}
